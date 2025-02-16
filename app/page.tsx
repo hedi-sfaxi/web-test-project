@@ -6,9 +6,6 @@ export default function Home() {
       {/* Image de fond */}
       <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('/img.png')" }}></div>
 
-      {/* Overlay sombre */}
-      <div className="absolute inset-0 bg-black bg-opacity-60"></div>
-
       {/* Contenu principal repositionné plus haut */}
       <div className="relative z-10 flex flex-col items-center justify-start h-screen pt-[10vh]">
         <h1 className="text-7xl font-bold">iPhone 16 Pro</h1>
