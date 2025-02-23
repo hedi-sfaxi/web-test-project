@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "question": "Texte : « Plusieurs compagnies aériennes affirment que la baisse du prix des billets stimulera la demande et, à long terme, augmentera leur chiffre d’affaires. » Question : Laquelle des affirmations suivantes, si elle est vraie, affaiblit le plus cet argument ?",
+      "choices": [
+        "Des études montrent que la baisse des tarifs incite de nouveaux voyageurs à prendre l’avion.",
+        "La réduction des prix des billets pourrait également réduire les marges des compagnies.",
+        "Les compagnies aériennes investissent dans de nouveaux avions pour répondre à la future demande.",
+        "Certaines compagnies pratiquent des prix bas et affichent une forte croissance du trafic."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 2,
+      "question": "Texte : « Les municipalités qui investissent dans des pistes cyclables voient le taux d’accidents de la route baisser. Selon un élu, le développement des pistes cyclables est donc le principal facteur de réduction des accidents. » Question : Laquelle des réponses suivantes affaiblit le plus l’argument de l’élu ?",
+      "choices": [
+        "Le nombre de cyclistes augmente là où les pistes cyclables sont créées.",
+        "Les municipalités qui investissent dans la sensibilisation au code de la route réduisent aussi les accidents.",
+        "La présence de pistes cyclables favorise les déplacements des touristes à vélo.",
+        "Les villes qui n’ont pas de pistes cyclables ont souvent d’autres politiques de sécurité."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 3,
+      "question": "Texte : « Les régimes stricts peuvent faire perdre du poids rapidement, mais ils provoquent souvent des reprises de poids encore plus importantes. Par conséquent, pour perdre durablement du poids, il est préférable d’éviter les régimes stricts. » Question : Laquelle des propositions suivantes soutient le mieux cette conclusion ?",
+      "choices": [
+        "Des études montrent que les régimes pauvres en glucides sont très populaires.",
+        "La reprise de poids est souvent proportionnelle à la sévérité du régime initial.",
+        "Les nutritionnistes conseillent souvent des régimes très restrictifs pour amorcer une perte de poids rapide.",
+        "Il existe des produits de compléments alimentaires qui limitent la sensation de faim."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 4,
+      "question": "Texte : « Un artisan déclare : “Lorsque je propose une démonstration gratuite de mes produits, j’obtiens davantage de ventes. Cela prouve que les démonstrations gratuites sont toujours un moyen efficace pour faire connaître et vendre un nouveau produit.” » Question : Quel énoncé affaiblit le plus sa conclusion ?",
+      "choices": [
+        "De nombreuses entreprises offrent des démonstrations gratuites pour lancer leurs produits.",
+        "Les démonstrations gratuites attirent parfois des clients qui n’auraient pas acheté autrement.",
+        "Les démonstrations gratuites de cet artisan concernent un produit très innovant et unique sur le marché.",
+        "Les clients font souvent des achats impulsifs après avoir vu une démonstration."
+      ],
+      "answer_index": 2,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 5,
+      "question": "Texte : « Selon une étude, les entreprises qui favorisent le télétravail gagnent en productivité. Cette productivité accrue résulte d’une meilleure conciliation vie professionnelle – vie personnelle pour les salariés. » Question : Laquelle des réponses suivantes renforcerait le plus cet argument ?",
+      "choices": [
+        "Les salariés en télétravail sont parfois distraits par leur environnement domestique.",
+        "Certaines entreprises obligent leurs employés à rester chez eux pour faire des économies de locaux.",
+        "Une enquête interne montre que les télétravailleurs ont moins d’absentéisme et gèrent mieux leur temps.",
+        "Le télétravail nécessite un matériel informatique performant pour le salarié."
+      ],
+      "answer_index": 2,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 6,
+      "question": "Texte : « La pollution atmosphérique est en hausse dans les grandes villes. Plusieurs observateurs concluent que la circulation automobile est le principal facteur de cette augmentation. » Question : Laquelle des propositions suivantes affaiblit le plus cette conclusion ?",
+      "choices": [
+        "Les pics de pollution ont tendance à se produire lors des fortes chaleurs estivales.",
+        "Les émissions d’industries et de chauffage domestique peuvent également contribuer fortement à la pollution.",
+        "La circulation automobile des particuliers représente une part importante des déplacements urbains.",
+        "Les nouvelles normes automobiles fixent des limites strictes aux émissions de CO2."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 7,
+      "question": "Texte : « Le taux de chômage a baissé de 1 % l’an dernier, alors que les entreprises de services ont créé de nombreux emplois. On peut en déduire que la baisse du chômage est uniquement due à la création d’emplois dans ce secteur. » Question : Laquelle des réponses suivantes affaiblit le plus cette conclusion ?",
+      "choices": [
+        "Les emplois de services sont souvent moins bien rémunérés que les emplois industriels.",
+        "D’autres secteurs, comme l’industrie ou le commerce, ont aussi créé des emplois pendant la même période.",
+        "Le chômage peut se mesurer avec des méthodes différentes selon les pays.",
+        "Le secteur tertiaire est devenu majoritaire dans l’économie française."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 8,
+      "question": "Texte : « Les cyberattaques sont de plus en plus sophistiquées, et des experts affirment que la vulnérabilité des grandes entreprises est croissante. De ce fait, on peut prédire qu’elles investiront massivement dans la cybersécurité. » Question : Laquelle des propositions suivantes affaiblit le plus cette prévision ?",
+      "choices": [
+        "Les cyberassurances couvrent déjà une partie des risques liés aux cyberattaques.",
+        "Certaines petites entreprises ont subi des attaques et s’en sont remises rapidement.",
+        "Les grandes entreprises, malgré leur vulnérabilité, attendent parfois un incident majeur avant d’investir massivement.",
+        "Les experts en cybersécurité sont de plus en plus nombreux sur le marché du travail."
+      ],
+      "answer_index": 2,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 9,
+      "question": "Texte : « Un coach sportif soutient que s’entraîner tous les jours à la même intensité est le meilleur moyen d’obtenir des résultats rapides. » Question : Laquelle des affirmations suivantes affaiblit le plus cet argument ?",
+      "choices": [
+        "Certains sportifs font du sport quotidiennement sans suivre de plan d’entraînement précis.",
+        "Des études prouvent que les temps de récupération sont essentiels pour progresser durablement.",
+        "Il existe différents types de sports et chaque discipline a ses spécificités.",
+        "Les entraînements fractionnés sont recommandés pour améliorer la vitesse."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 10,
+      "question": "Texte : « Les ventes de livres électroniques ont augmenté de 20 % ces deux dernières années. Selon un expert, cela annonce la disparition prochaine des livres imprimés. » Question : Laquelle des affirmations suivantes affaiblit le plus la conclusion de l’expert ?",
+      "choices": [
+        "Le coût de production d’un livre papier reste encore plus élevé que le coût de production d’un livre électronique.",
+        "Beaucoup de lecteurs préfèrent encore le contact physique avec le livre papier et continuent à en acheter.",
+        "Les liseuses électroniques offrent de plus en plus de fonctionnalités pratiques.",
+        "La croissance des livres électroniques peut se poursuivre dans les prochaines années."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 11,
+      "question": "Texte : « Une étude montre que 70 % des employés consultent leurs e-mails professionnels en dehors des heures de travail. De là, on conclut que la productivité globale s’en trouve augmentée. » Question : Laquelle des propositions suivantes affaiblit le plus cette conclusion ?",
+      "choices": [
+        "Certains employés apprécient la flexibilité que cela leur offre.",
+        "Le fait de consulter ses e-mails en continu peut entraîner un épuisement professionnel et donc une baisse de productivité.",
+        "Les employeurs encouragent souvent leurs salariés à décrocher de leurs e-mails en fin de journée.",
+        "Les nouvelles applications de messagerie rendent la consultation des e-mails plus rapide."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 12,
+      "question": "Texte : « Les sports extrêmes sont de plus en plus médiatisés. Un journaliste affirme que cette médiatisation croissante va nécessairement augmenter le nombre d’accidents chez les pratiquants novices. » Question : Quel énoncé affaiblit le plus l’affirmation du journaliste ?",
+      "choices": [
+        "Les sports extrêmes sont avant tout pratiqués par des athlètes expérimentés.",
+        "La médiatisation s’accompagne souvent d’une meilleure sensibilisation à la sécurité.",
+        "Le nombre d’accidents est en hausse, mais il n’est pas lié aux débutants.",
+        "Les sports extrêmes se déroulent souvent dans un cadre contrôlé."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 13,
+      "question": "Texte : « Les entreprises qui investissent dans la formation de leurs employés sont plus performantes à long terme. Cette performance est attribuée à l’acquisition de nouvelles compétences au sein de l’entreprise. » Question : Laquelle des affirmations suivantes renforcerait le plus cet argument ?",
+      "choices": [
+        "Les salariés formés sont plus enclins à changer d’entreprise pour un meilleur salaire.",
+        "Le coût de la formation est élevé pour certaines compétences très spécialisées.",
+        "Les études montrent que la mise à niveau régulière des compétences améliore la productivité et la qualité du travail.",
+        "Certaines formations ne sont pas directement liées à l’activité principale de l’entreprise."
+      ],
+      "answer_index": 2,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 14,
+      "question": "Texte : « Une organisation caritative déclare que chaque euro donné est entièrement consacré à l’achat de médicaments pour les enfants malades, et non aux frais de fonctionnement. Par conséquent, le don bénéficie intégralement aux enfants. » Question : Quel énoncé affaiblit le plus cette conclusion ?",
+      "choices": [
+        "Les frais de fonctionnement sont parfois financés par des partenaires privés.",
+        "La distribution de médicaments nécessite aussi des coûts logistiques et administratifs qui peuvent être élevés.",
+        "Les dons en nature sont souvent préférés par certains donateurs.",
+        "Les enfants malades peuvent obtenir leurs médicaments par d’autres moyens."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    },
+    {
+      "id": 15,
+      "question": "Texte : « Selon un sondage, la majorité des répondants jugent que le téléphérique urbain est un moyen de transport plus écologique que la voiture. On peut donc conclure que l’implantation d’un téléphérique réduira la pollution dans la ville. » Question : Laquelle des réponses suivantes affaiblit le plus cette conclusion ?",
+      "choices": [
+        "Le téléphérique urbain existe déjà dans certaines grandes métropoles.",
+        "Les usagers interrogés peuvent avoir surestimé l’usage effectif d’un téléphérique dans leurs déplacements quotidiens.",
+        "Le téléphérique présente des avantages touristiques incontestables.",
+        "Les coûts d’installation d’un téléphérique sont élevés."
+      ],
+      "answer_index": 1,
+      "topic": "Raisonnement et argumentation TAGE MAGE"
+    }
+  ]  

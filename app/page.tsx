@@ -1,30 +1,50 @@
-import Link from "next/link";
+"use client";
+
+import { useState } from "react";
+import { useRouter } from "next/navigation";
 
 export default function Home() {
+  const [category, setCategory] = useState("");
+  const router = useRouter();
+
+  const startTest = () => {
+    if (category) {
+      router.push(`/test?category=${category}`);
+    }
+  };
+
   return (
-    <div className="relative min-h-screen bg-black text-white flex items-start justify-center">
-      {/* Image de fond */}
+    <div className="relative min-h-screen bg-black text-white flex items-start justify-center font-inter">
       <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('/img.png')" }}></div>
 
-      {/* Contenu principal repositionné plus haut */}
-      <div className="relative z-10 flex flex-col items-center justify-start h-screen pt-[10vh]">
-        <h1 className="text-7xl font-bold">iPhone 16 Pro</h1>
-        <p className="text-2xl mt-4">Hello, Apple Intelligence.</p>
+      <div className="relative z-10 flex flex-col items-center justify-start h-screen pt-[12vh]">
+        <h1 className="text-7xl font-bold tracking-tight">Entraînement TAGE MAGE</h1>
+        <p className="text-2xl mt-4 font-medium">Sélectionnez votre catégorie pour commencer</p>
 
-        <div className="mt-8 flex gap-6">
-          {/* Bouton "Learn more" */}
-          <Link href="/learn-more">
-            <button className="px-8 py-3 bg-blue-600 text-white rounded-full text-xl font-semibold shadow-lg hover:bg-blue-700 transition">
-              Learn more
-            </button>
-          </Link>
+        <div className="mt-8 w-64">
+          <select
+            className="select select-bordered w-full text-lg text-black border-blue-500 px-4 py-3 pl-6"
+            value={category}
+            onChange={(e) => setCategory(e.target.value)}
+          >
+            <option value="" disabled>Choisissez une catégorie</option>
+            <option value="calcul">📊 Calcul</option>
+            <option value="raisonnement">🧠 Raisonnement</option>
+          </select>
+        </div>
 
-          {/* Bouton "Buy" */}
-          <Link href="/buy">
-            <button className="px-8 py-3 border border-blue-600 text-blue-600 rounded-full text-xl font-semibold hover:bg-blue-600 hover:text-white transition">
-              Buy
-            </button>
-          </Link>
+        <div className="mt-6">
+          <button
+            className={`px-8 py-3 text-xl font-semibold rounded-lg shadow-lg transition ${
+              category
+                ? "bg-blue-600 text-white hover:bg-blue-700"
+                : "bg-gray-600 text-gray-300 cursor-not-allowed"
+            }`}
+            onClick={startTest}
+            disabled={!category}
+          >
+            Démarrer le test
+          </button>
         </div>
       </div>
     </div>
