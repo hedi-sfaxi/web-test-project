@@ -4,104 +4,120 @@
       "question": "Un commerçant achète un produit à 80 € puis le revend avec une marge de 20 % sur le prix d’achat. Quel est le prix de vente ?",
       "choices": ["90 €", "96 €", "98 €", "100 €"],
       "answer_index": 1,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
+      
     },
     {
       "id": 2,
       "question": "La somme de trois nombres entiers consécutifs est 72. Quel est le plus grand de ces trois nombres ?",
       "choices": ["22", "23", "24", "25"],
       "answer_index": 3,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 3,
       "question": "Quel est le cinquième terme de la suite : 3, 7, 11, 15, … ?",
       "choices": ["16", "17", "19", "20"],
       "answer_index": 2,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 4,
       "question": "Sept ouvriers mettent 10 jours pour réaliser un travail. Combien faut-il d’ouvriers pour le réaliser en 5 jours, en supposant qu’ils travaillent au même rythme ?",
       "choices": ["13", "14", "15", "16"],
       "answer_index": 1,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 5,
       "question": "3/4, converti en pourcentage, équivaut à :",
       "choices": ["50 %", "65 %", "75 %", "80 %"],
       "answer_index": 2,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 6,
       "question": "Un article est soldé deux fois : une première remise de 20 %, puis une seconde remise de 10 % sur le prix déjà remisé. Quel est le pourcentage total de remise ?",
       "choices": ["25 %", "28 %", "30 %", "31 %"],
       "answer_index": 1,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 7,
       "question": "Un rectangle a un périmètre de 50 cm. Sa longueur est de 15 cm. Quelle est sa largeur ?",
       "choices": ["10 cm", "12 cm", "15 cm", "25 cm"],
       "answer_index": 0,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 8,
       "question": "Si a = 4, b = 9 et c = 2, quel est le résultat de (a + b × c) / 2 ?",
       "choices": ["9", "10", "11", "12"],
       "answer_index": 2,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 9,
       "question": "Un train parcourt 120 km en 1 h 30. Quelle est sa vitesse moyenne en km/h ?",
       "choices": ["60 km/h", "70 km/h", "80 km/h", "90 km/h"],
       "answer_index": 2,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 10,
       "question": "Soit (x + 1)(x − 2) = x² − x − 2. Quel est le résultat pour x = 4 ?",
       "choices": ["8", "10", "12", "14"],
       "answer_index": 1,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 11,
       "question": "Sachant que 4³ = 64, combien vaut 2⁶ ?",
       "choices": ["16", "32", "64", "128"],
       "answer_index": 2,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 12,
       "question": "Une machine produit 100 pièces en 5 minutes. Combien de pièces produit-elle en 1 heure au même rythme ?",
       "choices": ["1000", "1200", "1500", "1800"],
       "answer_index": 1,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 13,
       "question": "Un réservoir contient 120 litres de carburant. On en consomme 15 %. Combien de litres restent-ils ?",
       "choices": ["98", "100", "102", "105"],
       "answer_index": 2,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 14,
       "question": "Le produit de deux nombres est 48 et l’un d’eux vaut 6. Quel est l’autre ?",
       "choices": ["6", "7", "8", "9"],
       "answer_index": 2,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     },
     {
       "id": 15,
       "question": "Soit la fonction f(x) = 2x + 3. Quelle est la valeur de f(5) ?",
       "choices": ["10", "12", "13", "15"],
       "answer_index": 2,
-      "topic": "Calcul TAGE MAGE"
+      "topic": "Calcul TAGE MAGE",
+      "explaination": "Le prix de vente est égal au prix d’achat multiplié par 1,20. 80 × 1,20 = 96 €."
     }
   ]  

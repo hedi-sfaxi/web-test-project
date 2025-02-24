@@ -21,18 +21,25 @@ export default function Home() {
         <h1 className="text-7xl font-bold tracking-tight">Entraînement TAGE MAGE</h1>
         <p className="text-2xl mt-4 font-medium">Sélectionnez votre catégorie pour commencer</p>
 
-        <div className="mt-8 w-64">
+        <div className="mt-8 w-full max-w-xs"> {/* Ajustement de la largeur */}
           <select
-            className="select select-bordered w-full text-lg text-black border-blue-500 px-4 py-3 pl-6"
+            className="select select-secondary w-full max-w-md bg-gray-900 text-white 
+                      border border-blue-300 rounded-lg shadow-lg 
+                      focus:outline-none focus:border-blue-400
+                      transition hover:shadow-2xl hover:border-blue-400 
+                      text-base px-6 py-3 truncate" 
             value={category}
             onChange={(e) => setCategory(e.target.value)}
           >
-            <option value="" disabled>Choisissez une catégorie</option>
+            <option value="" disabled className="text-gray-400">
+              Choisissez une catégorie
+            </option>
             <option value="calcul">📊 Calcul</option>
             <option value="raisonnement">🧠 Raisonnement</option>
           </select>
         </div>
 
+        {/* Bouton Démarrer */}
         <div className="mt-6">
           <button
             className={`px-8 py-3 text-xl font-semibold rounded-lg shadow-lg transition ${
